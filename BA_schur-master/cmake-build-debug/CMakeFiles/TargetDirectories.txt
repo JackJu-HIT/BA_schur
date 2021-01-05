@@ -1,0 +1,14 @@
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/frontend/CMakeFiles/rebuild_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/frontend/CMakeFiles/edit_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/frontend/CMakeFiles/slam_course_frontend.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/backend/CMakeFiles/edit_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/backend/CMakeFiles/rebuild_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/backend/CMakeFiles/slam_course_backend.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/utils/CMakeFiles/rebuild_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/utils/CMakeFiles/edit_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/app/CMakeFiles/rebuild_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/app/CMakeFiles/testCurveFitting.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/app/CMakeFiles/edit_cache.dir
+/home/utopa/Documents/VIO_Lesson/CH6/code/BA_schur/cmake-build-debug/app/CMakeFiles/testMonoBA.dir
